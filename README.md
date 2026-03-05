@@ -4,7 +4,7 @@
 In this assignment I reviewed the supplied code, added comments to describe how the website is structured and how the website works. I also have a suggestion for improvement.
 
 ## 🎨 Improvement Suggestion
-I would choose to improve semantic HTML structure. I noticed that the HTML used mostly <div> elements for their containers, but in a few places used the <section> element. These elements are basically the same thing and you should stick to using one unless theres a specific reason to use the other. This can be confusing for accessability purposes like screen readers, or even other developers who may have to add things to the web page in the future.
+I would choose to improve semantic HTML structure. I noticed that the HTML used mostly `<div>` elements for their containers, but in a few places used the `<section>` element. These elements are basically the same thing and you should stick to using one unless theres a specific reason to use the other. This can be confusing for accessability purposes like screen readers, or even other developers who may have to add things to the web page in the future.
 
 ## 🧠 What I learned
 I learned that it is a lot harder to add comments/documenting the code after the project is complete or this far along.
